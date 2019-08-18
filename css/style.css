@@ -1,0 +1,16 @@
+*{
+	box-sizing: border-box;
+}
+#repeat{
+	margin-top: -10px;
+	margin-left: 1px;
+	width: 100%;
+	background-image: url("../img/repeat.png");
+	height: 212px;
+}
+#count{
+	position: absolute;
+	margin-left: 680px;
+	color: #169403;
+	font-size: 22px;
+}
